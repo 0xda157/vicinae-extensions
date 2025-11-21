@@ -65,7 +65,8 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@vicinae/api": "^0.16.6"
+    "@vicinae/api": "^0.16.6",
+    "react": "19.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.39.1",

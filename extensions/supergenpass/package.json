@@ -80,7 +80,8 @@
   },
   "dependencies": {
     "@vicinae/api": "^0.15.5",
-    "crypto-js": "^4.2.0"
+    "crypto-js": "^4.2.0",
+    "react": "19.0.0"
   },
   "devDependencies": {
     "@types/crypto-js": "^4.2.0",

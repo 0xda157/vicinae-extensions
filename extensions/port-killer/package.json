@@ -25,7 +25,8 @@
 		"format": "biome format --write"
 	},
 	"dependencies": {
-		"@vicinae/api": "^0.15.3"
+		"@vicinae/api": "^0.15.3",
+        "react": "19.0.0"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "2.2.7",

@@ -31,7 +31,8 @@
   "dependencies": {
     "@raycast/utils": "^2.2.2",
     "@vicinae/api": "^0.16.1",
-    "fuse.js": "^7.1.0"
+    "fuse.js": "^7.1.0",
+    "react": "19.0.0"
   },
   "devDependencies": {
     "@raycast/eslint-config": "^2.1.1",

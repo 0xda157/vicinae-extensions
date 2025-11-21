@@ -37,7 +37,8 @@
 	"dependencies": {
 		"@vicinae/api": "^0.16.1",
 		"otplib": "^12.0.1",
-		"qrcode": "^1.5.3"
+		"qrcode": "^1.5.3",
+        "react": "19.0.0"
 	},
 	"devDependencies": {
 		"typescript": "^5.9.2",
